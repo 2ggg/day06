@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Test1 {
 	public static void main(String[] args) {
+		//1부터 입력한 수까지 합
 		int num, sum=0, i=0;
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("수 입력>>");
